@@ -1,0 +1,202 @@
+     
+.comname{
+    margin-top: -1%;
+}
+.firstp{
+    margin-top: -.3%;
+}
+.logoaddress{
+    float: right;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+.formm{
+    margin-left: 3%;
+
+}
+.navbar{
+    margin-left: 3%;
+}
+.zzz {
+   
+    padding: 5px;
+  }
+  
+  .img1 {
+    float: right;
+    margin-left: 2%;
+  }
+  
+  .clearfix {
+    overflow: auto;
+  }
+
+
+p{
+    text-align: justify;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    margin-right: 3%;
+    
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin: 7%;
+    border: 20px solid white;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 220px;
+    background-color: rgba(4, 4, 54, 0.904);
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    padding: 8px 16px;
+    text-decoration: none;
+    font-weight: bolder;
+    text-align: center;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    
+  }
+  .tee{
+      background-color: white;
+  }
+  
+  li a.active {
+    background-color: orange;
+    color: white;
+  }
+  
+  li a:hover:not(.active) {
+    background-color: goldenrod;
+    color: white;
+  }
+.content{
+    display: flex;
+    
+}
+.contentleft{
+    margin-left: 3%;
+
+}
+.imggal{
+    float: left;
+    padding: 0px 10px 0px 10px;
+    margin-bottom: 3%;
+}
+.foot{
+    background-color:rgba(4, 4, 54, 0.904);
+    text-align: center;
+    color: white;
+  
+}
+textarea {
+    width: 100%;
+    height: 150px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid rgba(4, 4, 54, 0.904);
+    border-radius: 4px;
+    background-color: white;
+    font-size: 16px;
+    resize: none;
+}
+input[type=text] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgba(4, 4, 54, 0.904);
+    border-radius: 4px;
+  }
+
+  input[type=email] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgba(4, 4, 54, 0.904);
+    border-radius: 4px;
+  }
+  input[type=number] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgba(4, 4, 54, 0.904);
+    border-radius: 4px;
+  }
+  input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgba(4, 4, 54, 0.904);
+    border-radius: 4px;
+  }
+  input[type=submit] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: 2px solid rgba(4, 4, 54, 0.904);
+    border-radius: 4px;
+    background-color: orange;
+    color: black;
+    font-weight: bolder;
+    
+  }
+  .team{
+      color: rgb(39, 9, 66);
+  }
+  .button{
+  background-color: orange; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-weight: bolder;
+  }
+  .sform{
+      text-align: center;
+      margin: 10% 0% 10% 35%;
+  }
+  .popp{
+      
+      margin-left: 10%;
+      font-weight: bolder;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      text-transform: capitalize;
+  }
+  .pop{
+      display: flex;
+      background-color: orange;
+      margin-bottom: 3%;
+      
+      
+  }
+  h3{
+      color: darkblue;
+     
+  }
+  .ooo{
+      text-align: center;
+  }
+
+ 
+  
